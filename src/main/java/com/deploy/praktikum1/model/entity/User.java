@@ -1,4 +1,4 @@
-package com.example.praktikum1.model.entity;
+package com.deploy.praktikum1.model.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
