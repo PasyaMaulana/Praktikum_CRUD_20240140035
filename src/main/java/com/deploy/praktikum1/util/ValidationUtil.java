@@ -1,5 +1,4 @@
-package com.example.praktikum1.util;
-
+package com.deploy.praktikum1.util;
 
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.ConstraintViolationException;

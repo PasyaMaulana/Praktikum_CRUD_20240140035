@@ -1,4 +1,4 @@
-package com.example.praktikum1.model.dto;
+package com.deploy.praktikum1.model.dto;
 
 import lombok.Data;
 

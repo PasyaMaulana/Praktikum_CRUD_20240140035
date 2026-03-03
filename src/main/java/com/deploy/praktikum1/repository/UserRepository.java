@@ -1,6 +1,6 @@
-package com.example.praktikum1.repository;
+package com.deploy.praktikum1.repository;
 
-import com.example.praktikum1.model.entity.User;
+import com.deploy.praktikum1.model.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
